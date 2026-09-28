@@ -6,7 +6,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 [![Based on](https://img.shields.io/badge/based--on-NOLOcam-purple.svg)](https://github.com/doxx/NOLOcam) (Deleted)
-[![Based on](https://img.shields.io/badge/based--on-NOLOcam-purple.svg)](https://github.com/ThaysonScript/Nolo) (Latest)
+
+[![Based on](https://img.shields.io/badge/based--on-NOLOcam-green.svg)](https://github.com/ThaysonScript/Nolo) (Latest)
 
 **NoloX** is a next-generation, low-latency engine for real-time PTZ video orchestration, broadcasting, and computer vision inference. Re-architected from the ground up as a high-performance evolution of the original **[NOLOcam](https://github.com/doxx/NOLOcam) (Deleted)** ("Never Only Look Once") created by Barrett Lyon, NoloX transitions the legacy Go/Shell pipeline into an asynchronous **Rust Core** workspace with native GPU inference (ONNX Runtime / TensorRT) and a lightweight **Python Worker** for research model fallbacks.
 
