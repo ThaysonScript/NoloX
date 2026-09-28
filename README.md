@@ -89,7 +89,7 @@ nolox/
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/nolox.git](https://github.com/your-username/nolox.git)
+git clone [https://github.com/ThaysonScript/nolox.git](https://github.com/ThaysonScript/nolox.git)
 cd nolox
 
 # Build workspace in release mode
