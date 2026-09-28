@@ -5,6 +5,7 @@
 [![CUDA](https://img.shields.io/badge/cuda-12.0%2B-green.svg)](https://developer.nvidia.com/cuda-toolkit)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Based on](https://img.shields.io/badge/based--on-NOLOcam-purple.svg)](https://github.com/doxx/NOLOcam) (Deleted)
+[![Based on](https://img.shields.io/badge/based--on-NOLOcam-purple.svg)](https://github.com/ThaysonScript/NOLO) (Latest)
 
 **NoloX** is a next-generation, low-latency engine for real-time PTZ video orchestration, broadcasting, and computer vision inference. Re-architected from the ground up as a high-performance evolution of the original **[NOLOcam](https://github.com/doxx/NOLOcam) (Deleted)** ("Never Only Look Once") created by Barrett Lyon, NoloX transitions the legacy Go/Shell pipeline into an asynchronous **Rust Core** workspace with native GPU inference (ONNX Runtime / TensorRT) and a lightweight **Python Worker** for research model fallbacks.
 
@@ -150,7 +151,7 @@ NoloX is heavily indebted to the original **NOLOcam** project created by **Barre
 * **Core Vision & Philosophy**: Credit to Barrett Lyon for the "Never Only Look Once" concept, hybrid edge/cloud vision paradigm, and the P1/P2 tracking priority framework.
 * **Spatial PTZ Mathematics**: Calibration formulas and letterboxing coordinate transformations were ported directly from the original NOLOcam research.
 * **Original Repository**: [github.com/doxx/NOLOcam](https://github.com/doxx/NOLOcam) (Deleted)
-* **Forked Repository**: [github.com/ThaysonScript/NoloX](https://github.com/ThaysonScript/NoloX)
+* **Forked Repository**: [github.com/ThaysonScript/NoloX](https://github.com/ThaysonScript/Nolo)
 
 ---
 
